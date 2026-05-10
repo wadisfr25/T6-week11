@@ -1,0 +1,1 @@
+"""Package aplikasi Post Manager."""
